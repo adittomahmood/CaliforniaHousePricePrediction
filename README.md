@@ -166,25 +166,25 @@ The project reveals the significant advantage of Random Forest Regression over L
 ## Visualizations
 
 ### Correlation Heatmap
-![Correlation Heatmap](https://i.ibb.co.com/NgYpngjK/HeatMap.png)
+![Correlation Heatmap](https://i.ibb.co.com/W425GWVd/heatmap.png)
 
 ### Geographic Distribution of House Prices
-![Geographic Distribution](https://i.ibb.co.com/xKQPs6Hj/Screenshot-2025-05-11-142611.png)
+![Geographic Distribution](https://i.ibb.co.com/HLXdYcgH/geography-min.png)
 
 ### Income Category Distribution
-![Income Category Distribution](https://i.ibb.co.com/FbfKRL1b/income-category.png)
+![Income Category Distribution](https://i.ibb.co.com/j7p8PW1/income-category.png)
 
 ### Actual vs Predicted Prices (Linear Regression)
-![Actual vs Predicted](https://i.ibb.co.com/G4L6jMrt/Actual-vs-Predicted-Price-LR.png)
+![Actual vs Predicted](https://i.ibb.co.com/MyK4Jm2Y/Actual-vs-Predicted-Price-LR.png)
 
 ### Actual vs Predicted Prices (Random Forest)
-![Actual vs Predicted](https://i.ibb.co.com/LdkYDnf9/Actual-vs-Predicted-Price-RF.png)
+![Actual vs Predicted](https://i.ibb.co.com/gM27mbVp/Actual-vs-Predicted-Price-RF.png)
 
 ### Model Performance Comparison
-![Model Comparison](https://i.ibb.co.com/M5SWLPFW/Feature-Importance.png)
+![Model Comparison](https://i.ibb.co.com/WNT4Mj3D/Model-Comparisonpng.png)
 
 ### Feature Importance
-![Feature Importance]()
+![Feature Importance](https://i.ibb.co.com/PZ52L626/Feature-Importance.png)
 
 ## What I Learned
 
