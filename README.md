@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4773bcc5-11b6-470d-9709-a7e1386ec76d)# California House Price Prediction
+# California House Price Prediction
 
 ## Project Overview
 
