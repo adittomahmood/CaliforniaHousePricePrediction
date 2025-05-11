@@ -178,7 +178,7 @@ The project reveals the significant advantage of Random Forest Regression over L
 ![Actual vs Predicted](https://i.ibb.co.com/MyK4Jm2Y/Actual-vs-Predicted-Price-LR.png)
 
 ### Actual vs Predicted Prices (Random Forest)
-![Actual vs Predicted](https://i.ibb.co.com/gM27mbVp/Actual-vs-Predicted-Price-RF.png)
+![Actual vs Predicted](https://i.ibb.co.com/mCxBW4tn/Actual-vs-Predicted-Price-RF.png)
 
 ### Model Performance Comparison
 ![Model Comparison](https://i.ibb.co.com/WNT4Mj3D/Model-Comparisonpng.png)
